@@ -1,8 +1,6 @@
 # Erap
 ERP Framework ("Erap") is a robust starting point for building ERP systems using Django, offering reporting, dashboards, and admin elegance out of the box. It’s ideal if you want a flexible foundation. If you're looking for a plug-and-play, feature-rich ERP, you might consider alternatives like ERPNext or Odoo instead.
 
-A full-featured **ERP (Enterprise Resource Planning)** software is typically divided into several **core functional sections (or modules)**, each designed to manage a specific aspect of a business. Below is a structured list of **major sections in an ERP system**, especially one tailored for small to medium businesses, manufacturers, or service providers:
-
 ---
 
 <!-- ### 📦 **1. Accounting & Finance**
@@ -90,14 +88,14 @@ A full-featured **ERP (Enterprise Resource Planning)** software is typically div
 * Project Billing
 * Costing & Budgeting -->
 
----
+<!-- ---
 
 ### 📦 **8. Asset Management**
 
 * Asset Register
 * Asset Depreciation
 * Maintenance Schedule
-* Asset Disposal
+* Asset Disposal -->
 
 ---
 
